@@ -6,7 +6,7 @@
 
 2. Login Page
    
-  ![WhatsApp Image 2023-10-02 at 20 22 37_eb1e6c3d](https://github.com/AyuAnjar/ppm_tugas4/assets/102272367/d1d11142-e62a-4283-95e9-2763053012cc)
+   ![WhatsApp Image 2023-10-02 at 20 22 37_eb1e6c3d](https://github.com/AyuAnjar/ppm_tugas4/assets/102272367/d1d11142-e62a-4283-95e9-2763053012cc)
 
 3. List Produk Page
    
@@ -22,7 +22,8 @@
 
 6. Ubah Produk Page
 
-   ![WhatsApp Image 2023-10-02 at 20 28 20_aa60d64d](https://github.com/AyuAnjar/ppm_tugas4/assets/102272367/96b3327e-5330-4167-ac57-4816d906b5b7)
+   ![image](https://github.com/AyuAnjar/ppm_tugas4/assets/102272367/6a3c9be6-1b3d-4ab5-8c9e-4ed404768d94)
+
 
 ## Getting Started
 
